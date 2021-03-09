@@ -18,7 +18,7 @@ gem "jekyll-paginate"
 # gem "jekyll", ">= 3.5"
 # gem "premonition", ">= 4.0.0"
 # gem "pygments.rb"
-# gem "rake"
+ gem "rake"
 #
 #
 gem "github-pages", group: :jekyll_plugins
